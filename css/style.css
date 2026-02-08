@@ -45,9 +45,9 @@
 /*    background-repeat: no-repeat;*/
 /*    background-position: center;*/
 /*}*/
-/*#headline{*/
-/*    color: orange;*/
-/*}*/
-.main{
+#headline,h2{
     color: orange;
 }
+/*.main{*/
+/*    color: orange;*/
+/*}*/
