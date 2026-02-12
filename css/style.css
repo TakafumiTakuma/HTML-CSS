@@ -45,9 +45,17 @@
 /*    background-repeat: no-repeat;*/
 /*    background-position: center;*/
 /*}*/
-#headline,h2{
-    color: orange;
-}
+
+/*適応先を複数適応する*/
+/*#headline,h2{*/
+/*    color: orange;*/
+/*}*/
+/*クラスメイン*/
 /*.main{*/
 /*    color: orange;*/
 /*}*/
+
+/*子孫セレクト*/
+.main p span{
+    color: orange;
+}
